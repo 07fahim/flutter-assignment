@@ -1,4 +1,5 @@
 # flutter_assignment
+![Screenshot_20241110_161515](https://github.com/user-attachments/assets/f21300e3-66cc-4ef5-9bba-af2685a98e56)
 
 A new Flutter project.
 
