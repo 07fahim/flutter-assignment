@@ -71,7 +71,7 @@ class HomeActivity extends StatelessWidget{
 
               Padding(
                 padding: const EdgeInsets.all(8.0),
-                child: Text("if you submit code directly copy from chatgpt then mark will 0",style:textStyle,),
+                child: Text("If you submit code directly copy from chatgpt then mark will 0",style:textStyle,),
               ),
 
 
